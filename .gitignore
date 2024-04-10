@@ -1,2 +1,9 @@
 # vim swapfiles
 .*.sw?
+
+# SVG
+*.svg
+
+# other images
+*.jpg
+*.gif
